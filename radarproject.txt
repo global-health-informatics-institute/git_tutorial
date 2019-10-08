@@ -1,0 +1,1 @@
+using radio electromagnetic waves that flushes on a moving object and bouncing back then calculates the speed in mile per hour which is then coverted int  KM per hour
