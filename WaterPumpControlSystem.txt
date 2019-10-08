@@ -1,0 +1,1 @@
+Water Pump Control System is a system that uses esp32 that has a code running to control the water pump. The code Enables the pump to run at specified interval as set on the web platform of the system.
